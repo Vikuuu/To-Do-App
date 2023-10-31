@@ -8,6 +8,8 @@ django = "*"
 psycopg2 = "*"
 psycopg2-binary = "*"
 psycopg = {extras = ["binary"], version = "*"}
+djangorestframework = "*"
+django-cors-headers = "*"
 
 [dev-packages]
 
